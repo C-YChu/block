@@ -1,0 +1,22 @@
+scikits.audiolab==0.11.0
+scipy==0.19.1
+scikit_learn==0.18.1
+tabulate==0.7.7
+theano==0.9.0
+xlwt==1.2.0
+librosa==0.5.1
+
+
+ - tensorflow==2.11.0
+  - tensorflow-datasets==4.8.2
+
+py37
+
+
+==========
+env list
+==========
+
+blockpy37
+   pipwin
+   numpy==1.21

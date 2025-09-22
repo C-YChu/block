@@ -7,10 +7,10 @@ xlwt==1.2.0
 librosa==0.5.1
 
 
- - tensorflow==2.11.0
-  - tensorflow-datasets==4.8.2
+- tensorflow==2.11.0
+- tensorflow-datasets==4.8.2
 
-py37
+- python==37
 
 
 ==========
@@ -19,4 +19,5 @@ env list
 
 blockpy37
    pipwin
+
    numpy==1.21
